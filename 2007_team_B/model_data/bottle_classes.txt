@@ -1,0 +1,9 @@
+cola
+namacha
+hojicha
+gogotea
+pocari
+cola_l
+namacha_l
+gogotea_l
+pocari_l
